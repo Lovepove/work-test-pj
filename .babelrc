@@ -1,6 +1,6 @@
 { 
-    "presets": ["react", 
-        "env"
+    "presets": ["@babel/react", 
+        "@babel/env"
     ],
     "ignore": [
         "node_modules/**",
