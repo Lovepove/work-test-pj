@@ -1,9 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
-// import Root from 'js/containers/Root'
+import Root from 'js/containers/root'
 
 render(
-    <div> hi!
-    </div>,
+    <Root />,
     document.getElementById('root')
 )
